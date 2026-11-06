@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Continental SIMOS & PCR2.1 (VAG) ECU Calibration Software — SIMOS 8/10/12/16/18/19 TSI/TFSI & PCR2.1 1.6 TDI across VW, Audi, SEAT, Cupra, Škoda & Porsche (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/simos-pcr2-1-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/simos-pcr2-1-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
