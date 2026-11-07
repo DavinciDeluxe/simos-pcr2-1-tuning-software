@@ -1,10 +1,10 @@
-# Continental SIMOS & PCR2.1 (VAG) ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Continental SIMOS & PCR2.1 (VAG) ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Continental%20SIMOS%20%26%20PCR2.1%20(VAG)-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/simos-pcr2-1-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/simos-pcr2-1-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/simos-pcr2-1-tuning-software)
 
-**Continental SIMOS & PCR2.1 (VAG)** is Continental SIMOS 8/10/12/16/18/19 TSI/TFSI & SIMOS PCR2.1 1.6 TDI ECU family across Volkswagen, Audi, Seat, Skoda, Cupra & Porsche. **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Continental SIMOS & PCR2.1 (VAG) readouts**.
+**Continental SIMOS & PCR2.1 (VAG)** is Continental SIMOS 8/10/12/16/18/19 TSI/TFSI & SIMOS PCR2.1 1.6 TDI ECU family across Volkswagen, Audi, Seat, Skoda, Cupra & Porsche. **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Continental SIMOS & PCR2.1 (VAG) readouts**.
 
 ## 📊 Live Continental SIMOS & PCR2.1 (VAG) Variants Covered Across Brands
 
@@ -12,7 +12,7 @@
 | :--- | :---: | :--- |
 | **VOLKSWAGEN** | 59 | `PCR2.1`, `SIMOS`, `SIMOS 3PE 4726`, `SIMOS PCR 2.1`, `SIMOS10`, `SIMOS10.1.0`, `SIMOS10.12`, `SIMOS10.12A` … |
 | **AUDI** | 55 | `PCR2.1`, `SIMOS`, `SIMOS 6.2_3`, `SIMOS PCR 2.1`, `SIMOS10`, `SIMOS10.1.0`, `SIMOS10.12`, `SIMOS10.1X` … |
-| **SKODA** | 47 | `PCR2.1`, `SIMOS`, `SIMOS 3PG 1509`, `SIMOS PCR 2.1`, `SIMOS10`, `SIMOS10.1.0`, `SIMOS10.12`, `SIMOS10.1X` … |
+| **SKODA** | 48 | `PCR2.1`, `SIMOS`, `SIMOS 3PG 1509`, `SIMOS PCR 2.1`, `SIMOS10`, `SIMOS10.1.0`, `SIMOS10.12`, `SIMOS10.1X` … |
 | **SEAT** | 44 | `PCR2.1`, `SIMOS`, `SIMOS10`, `SIMOS10.1.0`, `SIMOS10.12`, `SIMOS10.1X`, `SIMOS10.2`, `SIMOS10.22` … |
 | **CUPRA** | 44 | `PCR2.1`, `SIMOS`, `SIMOS10`, `SIMOS10.1.0`, `SIMOS10.12`, `SIMOS10.1X`, `SIMOS10.2`, `SIMOS10.22` … |
 | **PORSCHE** | 44 | `PCR2.1`, `SIMOS`, `SIMOS10`, `SIMOS10.1.0`, `SIMOS10.12`, `SIMOS10.1X`, `SIMOS10.2`, `SIMOS10.22` … |
