@@ -1,7 +1,7 @@
 {
   "family": "Continental SIMOS & PCR2.1 (VAG)",
   "slug": "simos-pcr2-1",
-  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.45",
   "official_urls": [
     "https://www.davincideluxe.fr/simos-pcr2-1-tuning-software",
     "https://www.davincideluxe.org/simos-pcr2-1-tuning-software",
@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/simos-pcr2-1-tuning-software",
     "https://www.aesoftech.eu/simos-pcr2-1-tuning-software"
   ],
-  "matched_variants_count": 385,
+  "matched_variants_count": 386,
   "brands": {
     "MAZDA": [
       "SIMOS19.X"
@@ -237,7 +237,8 @@
       "SIMOS8.5",
       "SIMOS8.X",
       "SIMOS9.1",
-      "SIMOS9.X"
+      "SIMOS9.X",
+      "SimosPPD1.2"
     ],
     "CUPRA": [
       "PCR2.1",
